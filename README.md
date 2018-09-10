@@ -3,7 +3,7 @@
 
 ## Workflow
 1. Wrangle, prepare, and cleanse the data. 
- - overvoew
+ - overview
  - null value 
  - extreme value)
 2. Analyze, identify patterns, and explore the data. 
