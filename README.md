@@ -1,7 +1,7 @@
 # Retention-Analysis
-User biweekly retention analysis
+**User biweekly retention analysis**
 
-
+## Workflow
 1. Wrangle, prepare, and cleanse the data. 
  - overvoew
  - null value 
